@@ -1,5 +1,5 @@
 # Spotify clone by [Gabriel Fritz](https://github.com/GFFritz)
-## This is a Spotify clone made by [Next.js](https://nextjs.org/) npm and Tailwindcss.
+### This is a Spotify clone made by [Next.js](https://nextjs.org/) npm and Tailwindcss.
 
 ## Getting Started
 
