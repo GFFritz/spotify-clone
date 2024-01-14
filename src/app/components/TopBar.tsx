@@ -25,7 +25,7 @@ export function TopBar() {
         </Link>
         <Link
           href="#"
-          className="text-zinc-200 hover:text-zinc-50 hover:bg-red-900 p-2 cursor-default"
+          className="text-zinc-200 hover:text-zinc-50 hover:bg-red-600 p-2 cursor-default"
         >
           <X height={20} />
         </Link>
