@@ -128,7 +128,7 @@ export function CenterBar() {
           </span>
         </div>
         <div className="flex justify-center items-center gap-6">
-          <div className="flex flex-col p-4 justify-center bg-zinc-900 rounded-xl">
+          <div className="flex flex-col p-4 justify-center bg-zinc-900 hover:bg-zinc-800 rounded-xl cursor-pointer">
             <img className="rounded-md" src="/images/pod-1.jpg" alt="" />
             <div className="text-zinc-50 flex gap-2 items-center mt-4">
               <div className="w-2 h-2 bg-blue-700 rounded-full"></div>
@@ -136,7 +136,7 @@ export function CenterBar() {
             </div>
             <div className="text-zinc-400 text-sm">9 de jan. 48min</div>
           </div>
-          <div className="flex flex-col p-4 justify-center bg-zinc-900 rounded-xl">
+          <div className="flex flex-col p-4 justify-center bg-zinc-900 hover:bg-zinc-800 rounded-xl cursor-pointer">
             <img className="rounded-md" src="/images/pod-1.jpg" alt="" />
             <div className="text-zinc-50 flex gap-2 items-center mt-4">
               <div className="w-2 h-2 bg-blue-700 rounded-full"></div>
@@ -144,7 +144,7 @@ export function CenterBar() {
             </div>
             <div className="text-zinc-400 text-sm">9 de jan. 48min</div>
           </div>
-          <div className="flex flex-col p-4 justify-center bg-zinc-900 rounded-xl">
+          <div className="flex flex-col p-4 justify-center bg-zinc-900 hover:bg-zinc-800 rounded-xl cursor-pointer">
             <img className="rounded-md" src="/images/pod-1.jpg" alt="" />
             <div className="text-zinc-50 flex gap-2 items-center mt-4">
               <div className="w-2 h-2 bg-blue-700 rounded-full"></div>
@@ -152,7 +152,7 @@ export function CenterBar() {
             </div>
             <div className="text-zinc-400 text-sm">9 de jan. 48min</div>
           </div>
-          <div className="flex flex-col p-4 justify-center bg-zinc-900 rounded-xl">
+          <div className="flex flex-col p-4 justify-center bg-zinc-900 hover:bg-zinc-800 rounded-xl cursor-pointer">
             <img className="rounded-md" src="/images/pod-1.jpg" alt="" />
             <div className="text-zinc-50 flex gap-2 items-center mt-4">
               <div className="w-2 h-2 bg-blue-700 rounded-full"></div>
@@ -160,7 +160,7 @@ export function CenterBar() {
             </div>
             <div className="text-zinc-400 text-sm">9 de jan. 48min</div>
           </div>
-          <div className="flex flex-col p-4 justify-center bg-zinc-900 rounded-xl">
+          <div className="flex flex-col p-4 justify-center bg-zinc-900 hover:bg-zinc-800 rounded-xl cursor-pointer">
             <img className="rounded-md" src="/images/pod-1.jpg" alt="" />
             <div className="text-zinc-50 flex gap-2 items-center mt-4">
               <div className="w-2 h-2 bg-blue-700 rounded-full"></div>
