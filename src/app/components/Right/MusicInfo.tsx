@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export function MusicInfo() {
   return (
-    <div>
+    <div className="flex flex-col gap-4">
       <div className="flex justify-between items-center">
         <div>Lofi Girl - beats to relax/study to</div>
         <div className="flex justify-center items-center group h-8 w-8 rounded-full hover:bg-zinc-700">
