@@ -12,7 +12,7 @@ import {
 } from 'lucide-react'
 import Link from 'next/link'
 
-export function Playlists() {
+export function YourLibrary() {
   return (
     <div className="rounded-lg bg-card p-4 gap-6 flex flex-col text-zinc-300">
       <div className="flex justify-between items-center">
